@@ -9,3 +9,7 @@ At the terminal run the following command to install pylint.
 
 ```bash
 pylint sample1.py
+```
+
+- Pylint goes through every line of code and gives you a list all the non-compliant lines.
+- Pylint gives you a compliance score (10 being maximum).
